@@ -3,7 +3,7 @@ This Android application is able to show weather and climate data for locations 
 
 ## Instructions
 #### 1. This is the main screen of the weather application.
-![WebPageImage1](https://github.com/MyNameIsAditya/Android_WeatherApplication/blob/master/readme_images/image1.png width = "250")
+![WebPageImage1](https://github.com/MyNameIsAditya/Android_WeatherApplication/blob/master/readme_images/image1.png | width = "250")
 
 #### 2. Enter a location into the search bar. If more than one location exists with the entered name, the application will display the most recognized result. If you want to search for an obscure location, please be as specific as possible.
 ![WebPageImage1](https://github.com/MyNameIsAditya/Android_WeatherApplication/blob/master/readme_images/image2.png width = "250")
